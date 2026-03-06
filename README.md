@@ -1,69 +1,96 @@
 # 👋 Hi, I'm **Khaled Mohsen**
 
-> Data Analyst & Electrical Engineering Student passionate about Analytics, Python . 
-> Goal: Build strong analytical models and clean visualizations that drive insights and decision making.
+> **AI Engineer (Generative AI)** & Electrical Engineering Student.  
+> Focused on building **LLM-powered applications, RAG systems, and AI agents** using modern AI infrastructure.
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white" alt="Matplotlib"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Seaborn-4A90E2?logo=python&logoColor=white" alt="Seaborn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" alt="Plotly"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/></a>
   <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-  <a href="https://www.kaggle.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" alt="LangChain"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RAG-FF6F00?logo=databricks&logoColor=white" alt="RAG"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vector%20Database-4CAF50?logo=databricks&logoColor=white" alt="Vector Database"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## 🚀 Quick Overview
 
-* 🎯 Focused on: **Data Analysis, Applied Statistics**.
-* 🛠️ Tech Stack: Python (Pandas/NumPy/Matplotlib/Seaborn/Scikit‑learn), SQL, FastAPI, Git & GitHub.
-* 📊 Love creating **clear visualizations** and **dashboards** that tell a story.
-* 📬 Contact: **[LinkedIn](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)** · **Email**: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
+- 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
+- 🧠 Building **RAG systems, AI assistants, and LLM-powered APIs**
+- ⚙️ Backend development for AI systems using **FastAPI**
+- 🛠️ Interested in turning AI ideas into **real-world products**
 
+📬 **Contact**  
+- 💼 LinkedIn: [Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
+- ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
+- 🐦 X: [@Khaledmohsenn1](https://x.com/Khaledmohsenn1)
 
 ---
 
-## 🧰 Skills
+## 🧠 Skills
 
-**Languages:** Python, SQL, Bash
-**Data Analysis:** Pandas, NumPy, SciPy, Statsmodels
-**Visualization:** Matplotlib, Seaborn, Plotly
-**Machine Learning:** Scikit‑learn (Classification, Regression, Pipelines)
-**Databases:** MySQL
-**Tools:** Git, GitHub, Jupyter, VS Code
+**Languages:** Python, SQL, Bash  
+**AI / ML:** LLMs, Prompt Engineering, RAG, NLP  
+**Frameworks:** OpenAI API, LangChain  
+**Backend:** FastAPI, REST APIs  
+**Data:** Pandas, NumPy  
+**Infrastructure:** Docker, Git, GitHub, Linux (WSL)  
+**Tools:** VS Code, Jupyter Notebook
+
+---
+
+## 🏗️ What I Build
+
+I focus on building **real AI systems**, not just experiments.
+
+- **AI Assistants**
+- **RAG Applications**
+- **Document QA Systems**
+- **LLM APIs**
+- **AI Chatbots**
+- **AI Agent Systems**
 
 ---
 
 ## 🏆 Highlighted Projects
 
-> Replace links with your actual repositories.
+### 🧠 AI Medical Assistant (RAG)
 
-### 🧹 **Data Cleaning Toolkit**
+An AI assistant that answers medical questions using **Retrieval-Augmented Generation**.
 
-* Scripts for handling missing values, encoding categorical variables, and detecting outliers.
-* Simple CLI to run steps directly on CSV files.
-* Tech: `Python, Pandas, Scikit‑learn`
-* 🔗 **Repo:** [https://github.com/YOUR\_USERNAME/data-cleaning-toolkit](https://github.com/YOUR_USERNAME/data-cleaning-toolkit)
+**Features:**
+- Document ingestion
+- Vector search
+- LLM-powered responses
+- FastAPI backend
+- Streamlit interface
+
+**Tech Stack:**  
+`Python • FastAPI • OpenAI • RAG • Vector Database`
+
+> Replace this section with your actual project repository links.
 
 ---
 
-## 📚 Notes & Articles
+## 📚 Current Learning Focus
 
-* 📄 **Supervised vs Regression** — explained with simple code snippets.
-* 🧠 **Time Series Basics** — introduction to Trend & Seasonality.
-* 🔌 **FastAPI in 15 Minutes** — build a simple prediction API.
+- LLMOps
+- AI Agents
+- Multi-Agent Systems
+- Advanced RAG Architectures
+- Production AI Systems
 
 ---
 
 ## 🤝 Connect with Me
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/khaled-mohsen-2984902b4/](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
-* ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
-* 🐦 X (Twitter): [https://x.com/Khaledmohsenn1](https://x.com/Khaledmohsenn1)
+- 💼 LinkedIn: [https://www.linkedin.com/in/khaled-mohsen-2984902b4/](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
+- ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
+- 🐦 X: [https://x.com/Khaledmohsenn1](https://x.com/Khaledmohsenn1)
 
 ---
+
+💡 **Building AI systems that turn language models into real products.**
