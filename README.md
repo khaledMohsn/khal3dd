@@ -89,7 +89,7 @@ An AI assistant that answers medical questions using **Retrieval-Augmented Gener
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/khaled-mohsen-2984902b4/](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
 - ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
-- 🐦 X: [https://x.com/Khaledmohsenn1](https://x.com/Khaledmohsenn1)
+
 
 ---
 
