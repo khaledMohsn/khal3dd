@@ -16,6 +16,11 @@
 
 ---
 
+<p align="center">
+  <img src="banner.svg" alt="AI Engineer Banner" width="100%"/>
+</p>
+
+---
 ## 🚀 Quick Overview
 
 - 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
