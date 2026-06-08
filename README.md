@@ -1,10 +1,6 @@
 # Hey there, I'm Khaled👋
 
 </br>
-</br>
-</br>
-
-## About Me 💬
 
 ### 🤖 AI Engineer & Full-Stack Developer from Egypt 🇪🇬
 
