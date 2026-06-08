@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Khaled Mohsen**
 
-> **AI Engineer (Generative AI)** & Electrical Engineering Student.  
+> **AI Engineer (Generative AI)** & Software system Student.  
 > Focused on building **LLM-powered applications, RAG systems, and AI agents** using modern AI infrastructure.
 
 <p align="center">
@@ -14,11 +14,11 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+--
 
   <img src=          "https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif">
 
----
+--
 ## 🚀 Quick Overview
 
 - 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
