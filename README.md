@@ -11,15 +11,11 @@
 ### 🤖 AI Engineer & Full-Stack Developer from Egypt 🇪🇬
 
 ### What I do:
+
 - 🧠 Building **LLM-powered applications & RAG systems**
 - ⚙️ Designing **multi-tenant AI architectures**
 - 🚀 Deploying **production-grade AI backends** with FastAPI & Docker
 - 🔍 Integrating **vector databases** for semantic search
-
-### Hobbies:
-- ⚽ Football
-- 🤖 Building AI side projects
-- 📖 Learning new AI research
 
 <br />
 
@@ -42,32 +38,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
-<br />
-
-## 🏗️ Highlighted Projects
-
-### 🏥 Medical AI Platform
-> Multi-tenant RAG platform for 3 clinical departments with isolated vector knowledge bases
->
-> `Python` `FastAPI` `RAG` `ChromaDB` `HuggingFace` `MongoDB` `Docker`
-
-### 🏋️ GymHub — SaaS Platform
-> Full-stack multi-tenant gym management system — single deployment, unlimited businesses
->
-> `Python` `FastAPI` `MongoDB` `PostgreSQL` `Docker` `Beanie ODM`
-
-### 💬 WhatsApp Support Bot
-> Automated customer support via Twilio & Meta Cloud API with JWT auth backend
->
-> `Python` `FastAPI` `PostgreSQL` `Twilio` `Meta Cloud API` `JWT`
-
-### 🤖 Jarvis AI Assistant
-> Personal LLM-powered assistant with custom personality, memory & tool-calling architecture
->
-> `Python` `LLM` `NLP` `FastAPI` `Prompt Engineering`
-
-<br />
 
 ## 📊 GitHub Stats
 
