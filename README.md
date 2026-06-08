@@ -1,7 +1,7 @@
 # Hey there, I'm Khaled Mohsen 👋
 
 <div align="center">
-  <img height="300" width="500" alt="Super Saiyan GIF" src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/1936.gif">
+  <img height="300" width="500" alt="Super Saiyan GIF" src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/gif.gif">
 </div>
 
 <br />
@@ -28,9 +28,7 @@
         <li>📖 Learning new AI research</li>
       </ul>
     </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/gif.gif" alt="Laptop GIF" width="100%">
-    </td>
+  
   </tr>
 </table>
 
