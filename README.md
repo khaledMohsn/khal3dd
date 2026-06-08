@@ -1,97 +1,101 @@
-# 👋 Hi, I'm **Khaled Mohsen**
+# Hey there, I'm Khaled Mohsen 👋
 
-> **AI Engineer (Generative AI)** & Electrical Engineering Student.  
-> Focused on building **LLM-powered applications, RAG systems, and AI agents** using modern AI infrastructure.
+<div align="center">
+<img height="300" width="500" alt="GIF" align="center" src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/1936.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+## About Me 💬
+
+### 🤖 AI Engineer & Full-Stack Developer from Egypt 🇪🇬
+
+<img height="300" width="380" alt="GIF" align="right" src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/1936.gif">
+
+### What I do:
+- 🧠 Building **LLM-powered applications & RAG systems**
+- ⚙️ Designing **multi-tenant AI architectures**
+- 🚀 Deploying **production-grade AI backends** with FastAPI & Docker
+- 🔍 Integrating **vector databases** for semantic search
+
+### Hobbies:
+- ⚽ Football
+- 🤖 Building AI side projects
+- 📖 Learning new AI research
+
+</br>
+</br>
+
+## Languages & Tools 👨‍💻
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white" alt="LangChain"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/RAG-FF6F00?logo=databricks&logoColor=white" alt="RAG"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Vector%20Database-4CAF50?logo=databricks&logoColor=white" alt="Vector Database"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</br>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</br>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
+</br>
 
+## 🏗️ Highlighted Projects
 
----
-## 🚀 Quick Overview
+### 🏥 Medical AI Platform
+> Multi-tenant RAG platform for 3 clinical departments with isolated vector knowledge bases
+`Python` `FastAPI` `RAG` `ChromaDB` `HuggingFace` `MongoDB` `Docker`
 
-- 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
-- 🧠 Building **RAG systems, AI assistants, and LLM-powered APIs**
-- ⚙️ Backend development for AI systems using **FastAPI**
-- 🛠️ Interested in turning AI ideas into **real-world products**
+### 🏋️ GymHub — SaaS Platform
+> Full-stack multi-tenant gym management system — single deployment, unlimited businesses
+`Python` `FastAPI` `MongoDB` `PostgreSQL` `Docker` `Beanie ODM`
 
-📬 **Contact**  
-- 💼 LinkedIn: [Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
-- ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
-- 🐦 X: [@Khaledmohsenn1](https://x.com/Khaledmohsenn1)
+### 💬 WhatsApp Support Bot
+> Automated customer support via Twilio & Meta Cloud API with JWT auth backend
+`Python` `FastAPI` `PostgreSQL` `Twilio` `Meta Cloud API` `JWT`
 
----
+### 🤖 Jarvis AI Assistant
+> Personal LLM-powered assistant with custom personality, memory & tool-calling architecture
+`Python` `LLM` `NLP` `FastAPI` `Prompt Engineering`
 
-## 🧠 Skills
+</br>
 
-**Languages:** Python, SQL, Bash  
-**AI / ML:** LLMs, Prompt Engineering, RAG, NLP  
-**Frameworks:** OpenAI API, LangChain  
-**Backend:** FastAPI, REST APIs  
-**Data:** Pandas, NumPy  
-**Infrastructure:** Docker, Git, GitHub, Linux (WSL)  
-**Tools:** VS Code, Jupyter Notebook
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khal3dd&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khal3dd&theme=radical&hide_border=true"/>
+</p>
 
-## 🏗️ What I Build
+</br>
 
-I focus on building **real AI systems**, not just experiments.
+## 📬 Contact Me
 
-- **AI Assistants**
-- **RAG Applications**
-- **Document QA Systems**
-- **LLM APIs**
-- **AI Chatbots**
-- **AI Agent Systems**
+If you want to reach out — collaboration, questions, or just to talk AI — hit me up! 😄
 
----
-
-## 🏆 Highlighted Projects
-
-### 🧠 AI Medical Assistant (RAG)
-
-An AI assistant that answers medical questions using **Retrieval-Augmented Generation**.
-
-**Features:**
-- Document ingestion
-- Vector search
-- LLM-powered responses
-- FastAPI backend
-- Streamlit interface
-
-**Tech Stack:**  
-`Python • FastAPI • OpenAI • RAG • Vector Database`
-
-> Replace this section with your actual project repository links.
-
----
-
-## 📚 Current Learning Focus
-
-- LLMOps
-- AI Agents
-- Multi-Agent Systems
-- Advanced RAG Architectures
-- Production AI Systems
-
----
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn: [https://www.linkedin.com/in/khaled-mohsen-2984902b4/](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
-- ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
-
+<p>
+  <a href="mailto:khaledmohs3n@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/khaled-mohsenn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/khal3dd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
