@@ -12,7 +12,7 @@
 
 ### 🤖 AI Engineer & Full-Stack Developer from Egypt 🇪🇬
 
-<img height="300" width="380" alt="GIF" align="right" src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/1936.gif">
+<img height="300" width="380" alt="GIF" align="right" src="[https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/1936.gif](https://github.com/khal3dd/khal3dd/blob/main/assets/gif.gif)">
 
 ### What I do:
 - 🧠 Building **LLM-powered applications & RAG systems**
