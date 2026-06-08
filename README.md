@@ -15,9 +15,9 @@
 </p>
 
 ---
-
+<div align="center">
 <a href="#"><img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif"/></a>
-
+<div>
 ---
 ## 🚀 Quick Overview
 
