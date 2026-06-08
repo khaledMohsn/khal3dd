@@ -1,7 +1,7 @@
-                                          # Hey there, I'm Khaled Mohsen 👋
+ # Hey there, I'm Khaled 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/gif.gif" alt="Laptop GIF" width="700">
+  <img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/gif.gif" alt="Laptop GIF" width="500">
 </div>
 
 <br />
