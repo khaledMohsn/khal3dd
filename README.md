@@ -14,11 +14,11 @@
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
---
+---
 
-  <img src=          "https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif">
+<a href="#"><img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif"/></a>
 
---
+---
 ## 🚀 Quick Overview
 
 - 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
