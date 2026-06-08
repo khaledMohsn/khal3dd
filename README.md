@@ -1,11 +1,4 @@
 # Hey there, I'm Khaled Mohsen 👋
-
-<div align="center">
-  <img height="300" width="500" alt="Super Saiyan GIF" src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/1936.gif">
-</div>
-
-<br />
-
 ## 💬 About Me
 
 <table border="0">
