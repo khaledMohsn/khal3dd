@@ -1,31 +1,25 @@
 # Hey there, I'm Khaled Mohsen 👋
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/gif.gif" alt="Laptop GIF" width="100%">
+</div>
+
+<br />
+
 ## 💬 About Me
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>🤖 AI Engineer & Full-Stack Developer from Egypt 🇪🇬</h3>
-      <br />
-      <h4>What I do:</h4>
-      <ul>
-        <li>🧠 Building <b>LLM-powered applications & RAG systems</b></li>
-        <li>⚙️ Designing <b>multi-tenant AI architectures</b></li>
-        <li>🚀 Deploying <b>production-grade AI backends</b> with FastAPI & Docker</li>
-        <li>🔍 Integrating <b>vector databases</b> for semantic search</li>
-      </ul>
-      <br />
-      <h4>Hobbies:</h4>
-      <ul>
-        <li>⚽ Football</li>
-        <li>🤖 Building AI side projects</li>
-        <li>📖 Learning new AI research</li>
-      </ul>
-    </td>
-    <td width="40%" valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/gif.gif" alt="Laptop GIF" width="100%">
-    </td>
-  </tr>
-</table>
+### 🤖 AI Engineer & Full-Stack Developer from Egypt 🇪🇬
+
+### What I do:
+- 🧠 Building **LLM-powered applications & RAG systems**
+- ⚙️ Designing **multi-tenant AI architectures**
+- 🚀 Deploying **production-grade AI backends** with FastAPI & Docker
+- 🔍 Integrating **vector databases** for semantic search
+
+### Hobbies:
+- ⚽ Football
+- 🤖 Building AI side projects
+- 📖 Learning new AI research
 
 <br />
 
