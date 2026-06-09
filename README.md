@@ -1,6 +1,6 @@
 <div align="center">
+
 # 👋 Hi, I'm **Khaled Mohsen**
-</div>
 
 > **AI Engineer (Generative AI)** & Software system Student.  
 > Focused on building **LLM-powered applications, RAG systems, and AI agents** using modern AI infrastructure.
@@ -18,12 +18,10 @@
 
 ---
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif" alt="SpongeBob Sleeping" width="550">
-</div>
+<img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif" alt="SpongeBob Sleeping" width="550">
   
 ---
+
 ## 🚀 Quick Overview
 
 - 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
@@ -31,8 +29,7 @@
 - ⚙️ Backend development for AI systems using **FastAPI**
 - 🛠️ Interested in turning AI ideas into **real-world products**
 
-📬 **Contact**  
-- 💼 LinkedIn: [Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
+📬 **Contact** - 💼 LinkedIn: [Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
 - ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
 - 🐦 X: [@Khaledmohsenn1](https://x.com/Khaledmohsenn1)
 
@@ -76,8 +73,7 @@ An AI assistant that answers medical questions using **Retrieval-Augmented Gener
 - FastAPI backend
 - Streamlit interface
 
-**Tech Stack:**  
-`Python • FastAPI • OpenAI • RAG • Vector Database`
+**Tech Stack:** `Python • FastAPI • OpenAI • RAG • Vector Database`
 
 > Replace this section with your actual project repository links.
 
@@ -98,7 +94,8 @@ An AI assistant that answers medical questions using **Retrieval-Augmented Gener
 - 💼 LinkedIn: [https://www.linkedin.com/in/khaled-mohsen-2984902b4/](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
 - ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
 
-
 ---
 
 💡 **Building AI systems that turn language models into real products.**
+
+</div>
