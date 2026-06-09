@@ -46,9 +46,12 @@
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/khaled-mohsen-2984902b4/](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
-- ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
-
+<a href="https://www.linkedin.com/in/khaled-mohsen-2984902b4/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:khaledmohs3n@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 ---
 
 💡 **Building AI systems that turn language models into real products.**
