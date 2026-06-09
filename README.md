@@ -47,7 +47,7 @@
 
 ---
 
-## 🏗️ What I Build
+## 🏗️ What I Built
 
 I focus on building **real AI systems**, not just experiments.
 
@@ -60,34 +60,6 @@ I focus on building **real AI systems**, not just experiments.
 
 ---
 
-## 🏆 Highlighted Projects
-
-### 🧠 AI Medical Assistant (RAG)
-
-An AI assistant that answers medical questions using **Retrieval-Augmented Generation**.
-
-**Features:**
-- Document ingestion
-- Vector search
-- LLM-powered responses
-- FastAPI backend
-- Streamlit interface
-
-**Tech Stack:** `Python • FastAPI • OpenAI • RAG • Vector Database`
-
-> Replace this section with your actual project repository links.
-
----
-
-## 📚 Current Learning Focus
-
-- LLMOps
-- AI Agents
-- Multi-Agent Systems
-- Advanced RAG Architectures
-- Production AI Systems
-
----
 
 ## 🤝 Connect with Me
 
