@@ -28,11 +28,7 @@
 - 🧠 Building **RAG systems, AI assistants, and LLM-powered APIs**
 - ⚙️ Backend development for AI systems using **FastAPI**
 - 🛠️ Interested in turning AI ideas into **real-world products**
-
-📬 **Contact** - 💼 LinkedIn: [Khaled Mohsen](https://www.linkedin.com/in/khaled-mohsen-2984902b4/)
-- ✉️ Email: [khaledmohs3n@gmail.com](mailto:khaledmohs3n@gmail.com)
-- 🐦 X: [@Khaledmohsenn1](https://x.com/Khaledmohsenn1)
-
+- 
 ---
 
 ## 🧠 Skills
