@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/khal3dd/khal3dd/main/assets/Season 12 GIF by SpongeBob SquarePants.gif" alt="SpongeBob Sleeping" width="550">
+<img src="https://github.com/khal3dd/khal3dd/blob/main/assets/computer%20GIF.gif" width="550">
   
 ---
 
