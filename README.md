@@ -43,19 +43,6 @@
 
 ---
 
-## 🏗️ What I Built
-
-I focus on building **real AI systems**, not just experiments.
-
-- **AI Assistants**
-- **RAG Applications**
-- **Document QA Systems**
-- **LLM APIs**
-- **AI Chatbots**
-- **AI Agent Systems**
-
----
-
 
 ## 🤝 Connect with Me
 
