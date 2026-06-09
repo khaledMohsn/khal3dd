@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://github.com/khal3dd/khal3dd/blob/main/assets/Whats Up Hello GIF by LT3 Creations.gif" width="550">
+<img src="https://github.com/khal3dd/khal3dd/blob/main/assets/10K Mrr GIF.gif" width="550">
   
 ---
 
