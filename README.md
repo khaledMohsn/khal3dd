@@ -17,18 +17,6 @@
 ---
 
 <img src="https://github.com/khal3dd/khal3dd/blob/main/assets/10K Mrr GIF.gif" width="550">
-  
----
-
-## 🚀 Quick Overview
-
-- 🤖 Focused on: **Generative AI, LLM Applications, AI Agents**
-- 🧠 Building **RAG systems, AI assistants, and LLM-powered APIs**
-- ⚙️ Backend development for AI systems using **FastAPI**
-- 🛠️ Interested in turning AI ideas into **real-world products**
-
-- 
----
 
 💡 **Building AI systems that turn language models into real products.**
 
