@@ -6,17 +6,7 @@
   
   **Python Developer | Building AI & Automation Tools**
 
-  [![Followers](https://img.shields.io/github/followers/KhaledMohsn?style=social)](https://github.com/KhaledMohsn)
-</div>
-
 ---
-
-### 👨‍💻 About Me
-
-* 🔭 I’m currently working on custom **AI Assistants and automation scripts**
-* 🌱 I’m constantly learning and leveling up my **Python and software architecture skills**
-* 💬 Ask me about **Python, VS Code workflows, or my latest projects**
-* ⚡ Fun fact: I treat coding like a game—always looking to unlock the next achievement! 🎮
 
 ---
 
