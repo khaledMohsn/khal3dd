@@ -1,13 +1,11 @@
 <div align="center">
   
-  <img src="https://github.com/KhaledMohsn/khal3dd/blob/main/assets/1936.gif?raw=true" width="250" alt="Cool Anime GIF">
+  <img src="https://github.com/KhaledMohsn/khal3dd/blob/main/assets/1936.gif?raw=true">
+
+
 
   
   **Python Developer | Building AI & Automation Tools**
-
----
-
----
 
 ---
 
