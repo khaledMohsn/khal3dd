@@ -11,7 +11,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhaledMohsn&theme=tokyonight&hide_border=true" height="195" alt="Khaled's GitHub Streak" />
   </a>
 
-
+---
   
   <img src="https://github.com/KhaledMohsn/khal3dd/blob/main/assets/1936.gif?raw=true">
 
@@ -21,8 +21,6 @@
   **Python Developer | Building AI & Automation Tools**
 
 ---
-
-### 📊 GitHub Stats
 
 
 </div>
